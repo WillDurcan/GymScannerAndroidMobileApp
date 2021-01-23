@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "373445355538",
+    "firebase_url": "https://gym-scan-256717.firebaseio.com",
+    "project_id": "gym-scan-256717",
+    "storage_bucket": "gym-scan-256717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373445355538:android:fca719897a1a85849890cb",
+        "android_client_info": {
+          "package_name": "com.developndesign.firebaseautomlvisionedge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373445355538-pt7e0gdjo1ng93flif2g24o07heqv0cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developndesign.firebaseautomlvisionedge",
+            "certificate_hash": "62641fe3fa9bc75fb768212a017d846978198690"
+          }
+        },
+        {
+          "client_id": "373445355538-nv8log9j8nfcl7d31dnikl8rk71a363t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0quhrg0saPpW-9JLQWDZ4vt6ORKU1mog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373445355538-nv8log9j8nfcl7d31dnikl8rk71a363t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

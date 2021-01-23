@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">FirebaseAutoMLVisionEdge</string>
+
+    <string name="DesforMain">
+            Note: Please take a image of the machine facing the front.\nAnd make sure the full machine in view in the Camera.\n
+    </string>
+
+    //titles
+    <string name="description">Description:</string>
+    <string name="area_trained">Area trained:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="MistakesTitle">Common Mistakes and Resolutions:</string>
+
+    //chest
+    <string name="Titleforbench">Benchpress </string>
+    <string name="instructionsstring">
+        \n1. Hold slightly wider than shoulder-width grip.
+        \n\n 2. Begin with arms extended, bar over chest.
+        \n\n 3. Shoulders remain in contact with Bench. \n </string>
+    <string name="DesforBenchpress">The benchpress is probably one of the most popular exercises that trains the middle chest region.
+        \n\nHowever poor technique and too high weights can lead to injuries. Ensure that if you\'re doing this for the first time then try using just the bar.:</string>
+    <string name="middle_chest_pectoral_region">Middle Chest (Pectoral region).</string>
+    <string name="becnpressmistakes">
+        1. Flaring out your elbows, your When you’re doing a barbell bench press, you want to keep your elbows as close to your body as possible.
+        \n \n2. Not planting your feet on the floor. When you bench press, you want to make sure that your feet are firmly planted on the ground. This helps to provide a stable structure for the lift, allowing you to bench press more weight.
+        \n \n3. Not touching the bar to your chest. This ensures a full repetition has been completed.
+        \n \n4. Bouncing the bar off your chest. If theres a need to bounce the weight of your chest then the liklihood it\'s too high of a weight.
+        \n \n5. Not arching your back. This allows for higher lifting, the gap should be big enough to fit your fist under, no more.
+        \n \n6. Lifting your head off the bench. Lifting your neck up can create a lot of strain during the lift, and it is completely unnecessary.
+        \n \n7. Bending your wrists. If you do this, it can easily force your wrists back during the movement, putting tremendous strain on your wrist joints. if you find yourself looking up at the backs of your hands while they cradle the bar, you need to fix this asap! </string>
+    <string name="space">\u0020</string>
+    //chin assisted
+    <string name="DesforAssistedChin">The chin-up (also known as a chin or chinup) is a strength training exercise.
+        \n\nPeople frequently do this exercise with the intention of strengthening muscles such as the latissimus dorsi (lats) and biceps, which extend the shoulder and flex the elbow, respectively.
+        \n\nIn this maneuver, the palms are faced towards the body.
+        \n\nThis assisted variet of a chin-up is usful for beginners as the higher the weight the greater the assistance it provides you.
+
+    </string>
+    <string name="instructforchinassist">
+        1. Grasp the assisted-pullup machine with a neutral grip (palms facing away from you) and place your knees on the kneepad.
+        \n\n2. Pull your shoulders back and down and lock in this position.
+        \n\n3. Holding this position, simultaneously bring the other knee onto the pad as you lift up into the top starting position
+        \n\n4. Keeping your shoulders drawn inward, slowly lower your body until your arms are fully lengthened
+        \n\n5. Pause at the top position (When you heads alined with you hands) before lowering.</string>
+    <string name="areatrainechin">
+        This exercise trains a few, the back, shoulders and arms:
+         \n\n1. The Trapeziu (Middle of the back over \n  the spine),
+         \n\n2. The Latissimus dorsi (largest muscle in the upper body).
+         \n\n3. The latissimus dorsi is responsible for extension).
+         \n\n4. The Posteriod deltoid (Muscle behind and under shoulder, placed near the armpit).
+         \n\n5. The bicep and brachialis (Main muscle in the arm).</string>
+
+    //abs
+    <string name="areatrainedab">Rectus Abdominis ( Middle Ab area).</string>
+    <string name="abcrunchdesdes">The machine crunch is a machine-based exercise targeting the abdominal (ab) muscles.
+        \n\nIt involves sitting upright in the machine and curling the torso down toward the chest against some pre-set level of resistance.
+        \n\nOn some machines, the knees also curl up torward the torso.
+        \n\nCrunch machines usually use extra resistance in the form of selectorized weight stacks or plate loading, and are often performed for moderate to high reps, like 8-12 reps per set or higher, as part of the ab-focused portion of a workout.</string>
+    <string name="crunchinstrusions">1. Grasp the assisted-pullup machine with a neutral grip (palms facing away from you) and place your knees on the kneepad.
+        \n \n2. Pull your shoulders back and down and lock in this position.
+        \n \n3. Holding this position, simultaneously bring the other knee onto the pad as you lift up into the top starting position
+        \n \n4. Keeping your shoulders drawn inward, slowly lower your body until your arms are fully lengthened
+        \n \n5. Pause at the top position (When you heads alined with you hands) before lowering.\n</string>
+    <string name="abcrunchmistakes">
+        1. Don\'t lift your feet off the floor, the exercise is meant to isolate your abs.
+        \n\n2. Keep your back pressed against the back off the machine and avoid using your arms to pull down the machine.
+        \n\n3. Don\'t rush the repitions, faster ab exercises can be done without the machine, like the ab crunch.</string>
+    <string name="commonmistakeschinup"> Due to the fact that this is a assisted machine, the risks are less than when you would be doing unassisted pull ups.
+        \n However theres still a few:
+        \n\n1. Not doing a full repetition.
+        \n\n2. Not getting your chin above the bar.
+        \n\n3. Using too much momentum. (Implying you start to swing or bounce back up for a new rep)
+        \n\n4. Gripping too wide.
+        \n\n5. Not keeping your shoulders back.
+        \n\n6. Not keeping your back flat.
+        \n\n7. Trying to doing pull-ups before you can actually do pull-ups,
+        this why a assisted machine is usful for beginners as the higher the weight the greater the assistance. </string>
+    //legs
+    <string name="legexdes">The leg extension machine is used to train your anterior thigh muscles, meaning the four-headed muscle in your upper thigh (musculus quadriceps femoris). \n\nThe quadriceps is the muscle with the densest muscle mass in the body and consists of four parts or heads.</string>
+    <string name="desforlegex">Leg extensions are exercises usually done with a lever machine. You sit on a padded seat and raise a padded bar with your legs. \n\nYou can use this exercise to build lower body strength and muscle definition as part of a strength training workout.</string>
+    <string name="avoidLegextension">Avoid these errors so you will get the most benefit and prevent strain or injury.  \n
+        \n \n1. Heavy Lifting - This is not the machine to try for a maximum lift (1RM), which is the most weight you can lift for just one rep. Due to the risk of knee ligament strain, do not use this exercise for low-rep, high-load strength conditioning.
+        \n \n2. High Reps - Don\'t do more than three sets of eight to 12 reps at moderate load. You don\'t need to do any endurance sets with high repetitions on the leg extension machine.
+        \n \n3. Going Too Fast - Doing this exercise with any speed will use momentum rather than muscle engagement.
+        \n \n4. Locking the Knees - Do not lock your knees at full extension. This can strain the knee joint</string>
+    <string name="instrustforlegex">
+        Set up the leg extension machine so the pad is at the top of your lower legs at the ankles.
+        \n\nYour knees are at 90 degrees.  \n\nSelect a weight that will give you a moderate load for 10 to 12 repetitions.
+        \n\n1. Place your hands on the hand bars.
+        \n\n2. Lift the weight while exhaling until your legs are almost straight. Do not lock your knees. Keep your back against the backrest and do not arch your back.
+        \n\n3. Exhale and lower the weight back to starting position.
+        \n\n4. Do three sets of eight to 12 repetitions.</string>
+    <string name="descriptionforchinassist">Description</string>
+
+
+
+</resources>
